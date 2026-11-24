@@ -5,3 +5,4 @@ __pycache__/
 projects/*/inputs/
 projects/*/work/
 projects/*/output/
+projects/*/renders/
