@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.DS_Store
+# Large media: source footage, intermediate audio/video, rendered outputs
+projects/*/inputs/
+projects/*/work/
+projects/*/output/

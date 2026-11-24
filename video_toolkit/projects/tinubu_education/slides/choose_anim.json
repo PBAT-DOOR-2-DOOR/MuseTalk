@@ -1,0 +1,52 @@
+{
+ "counters": [
+  {
+   "x": 584,
+   "y": 734,
+   "text": "\u20a6375bn",
+   "size": 46,
+   "weight": 0,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "x": 852,
+   "y": 734,
+   "text": "1m+",
+   "size": 46,
+   "weight": 0,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  },
+  {
+   "x": 1120,
+   "y": 734,
+   "text": "156,446",
+   "size": 46,
+   "weight": 0,
+   "color": [
+    255,
+    255,
+    255
+   ]
+  }
+ ],
+ "layers": [
+  {
+   "png": "choose_beyond1.png",
+   "key": "beyond1",
+   "anim": "slide"
+  },
+  {
+   "png": "choose_beyond2.png",
+   "key": "beyond2",
+   "anim": "slide"
+  }
+ ]
+}
